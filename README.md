@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/sahandsorouri/sahandsorouri/main/assets/banner.svg" alt="Sahand Sorouri" width="100%">
+
 # Voice to Text Bot
 
 A small bot for Telegram and WhatsApp that turns voice notes into text, and text into voice notes, with ElevenLabs.
